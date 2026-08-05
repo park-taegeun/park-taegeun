@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2B4A,50:135E6B,100:0E7C86&height=200&section=header&text=Taegeun%20Park&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%C2%B7%20Agent%20%C2%B7%20Systems&descSize=18&descAlignY=54" />
 
-서경대학교 전자컴퓨터공학과 4학년 · 2027.02 졸업 예정
+전자컴퓨터공학과 4학년
 
 <br>
 

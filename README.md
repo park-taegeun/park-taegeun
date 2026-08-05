@@ -35,11 +35,11 @@
 </tr>
 <tr>
   <td align="right"><b>Frontend</b></td>
-  <td><img src="https://skillicons.dev/icons?i=react,js,figma" height="40" /></td>
+  <td><img src="https://skillicons.dev/icons?i=react,js" height="40" /></td>
 </tr>
 <tr>
   <td align="right"><b>Tools</b></td>
-  <td><img src="https://skillicons.dev/icons?i=git,github,linux,notion" height="40" /></td>
+  <td><img src="https://skillicons.dev/icons?i=git,github,linux,notion,figma" height="40" /></td>
 </tr>
 <tr>
   <td align="right" valign="middle"><b>Agent / LLM</b></td>

@@ -71,8 +71,8 @@
 
 <div align="center">
 
-<img height="165" src="https://YOUR-INSTANCE.vercel.app/api?username=park-taegeun&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&cache_seconds=86400&bg_color=00000000&title_color=0E7C86&icon_color=0E7C86&text_color=9CA3AF" />
-<img height="165" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=park-taegeun&layout=compact&theme=nightowl&hide_border=true&langs_count=6&cache_seconds=86400&bg_color=00000000&title_color=0E7C86&text_color=9CA3AF" />
+<img height="165" src="https://github-readme-stats-tawny-five-aqo7vfo33z.vercel.app/api?username=park-taegeun&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&cache_seconds=86400&bg_color=00000000&title_color=0E7C86&icon_color=0E7C86&text_color=9CA3AF" />
+<img height="165" src="https://github-readme-stats-tawny-five-aqo7vfo33z.vercel.app/api/top-langs/?username=park-taegeun&layout=compact&theme=nightowl&hide_border=true&langs_count=6&cache_seconds=86400&bg_color=00000000&title_color=0E7C86&text_color=9CA3AF" />
 
 </div>
 

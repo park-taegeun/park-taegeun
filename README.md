@@ -17,62 +17,6 @@
 
 </div>
 
----
-
-## Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔊 [ddingdong](https://github.com/park-taegeun/ddingdong)
-**청각장애인용 현관 부착형 소리 분류 알림 시스템**
-
-초인종·화재경보·노크를 실시간 분류해 진동/시각 알림으로 전달.
-엣지 추론 파이프라인과 서버 연동을 직접 설계.
-
-`ESP32` `Python` `Flask` `PyTorch`
-> 졸업작품 · IEIE 학술대회 논문·포스터 발표
-
-</td>
-<td width="50%" valign="top">
-
-### 🥒 [PICKL](https://github.com/TEAMPICKL/PICKL_FE)
-**멋쟁이사자처럼 13기 중앙 해커톤 서비스**
-
-프론트엔드 담당. KakaoMap API 기반 위치 탐색 UI 구현 및
-백엔드 연동 인터페이스 설계.
-
-`React` `JavaScript` `KakaoMap API`
-> 247팀 중 상위 10% · 본선 진출
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ☕ [MANJIL](https://github.com/SKTHON-CAFFEINE/MANJIL_FE)
-**서경대학교 교내 해커톤 · 팀 카페인**
-
-프론트엔드 전반 구현 및 팀 내 컴포넌트 구조 정리.
-
-`React` `JavaScript`
-
-</td>
-<td width="50%" valign="top">
-
-### 📝 [velog-backup](https://github.com/park-taegeun/velog-backup)
-**Playwright 기반 Velog 포스팅 자동 아카이빙**
-
-작성 글을 마크다운으로 크롤링해 버전 관리 대상으로 편입.
-
-`Python` `Playwright`
-
-</td>
-</tr>
-</table>
-
----
 
 ## Tech Stack
 

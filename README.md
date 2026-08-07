@@ -6,10 +6,6 @@
 
 <br>
 
-> **좋아 보이는 결과를 먼저 의심하고 원인을 짚어 최소로 개입하며,**
-> **그 판단을 코드와 기록으로 남깁니다.**
-
-<br>
 
 <a href="https://park-taegeun.github.io/"><img src="https://img.shields.io/badge/Portfolio-1A2B4A?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://velog.io/@xorms/series"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" /></a>
